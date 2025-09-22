@@ -1,0 +1,120 @@
+{
+  "DarkTheme": true,
+  "ControlStyles": {
+    "Form": {
+      "BaseCategory": "None",
+      "Colors": {
+        "Caption": {
+          "Color": "#1E2124"
+        },
+        "BackColor": {
+          "Color": "#2C2F33"
+        },
+        "ForeColor": {
+          "Color": "#FFFFFF"
+        },
+        "BorderColor": {
+          "Color": "#23272A"
+        },
+        "DisabledForeColor": {
+          "Color": "#b1b1b1"
+        },
+        "SelectedBackColor": {
+          "Color": "#4752C4"
+        }
+      },
+      "Values": {
+        "BorderSize": 2,
+        "CaptionHeight": 32
+      }
+    },
+    "Input": {
+      "BaseCategory": "Form",
+      "Colors": {
+        "BackColor": {
+          "Color": "#23272A"
+        },
+        "BorderColor": {
+          "Color": "#1E2124"
+        }
+      },
+      "Values": {
+        "BorderSize": 1
+      }
+    },
+    "Button": {
+      "BaseCategory": "Input",
+      "Colors": {
+        "BackColor": {
+          "Color": "#5865F2"
+        },
+        "BorderColor": {
+          "Color": "#4752C4"
+        },
+        "SelectedBackColor": {
+          "Color": "#4752C4"
+        }
+      },
+      "Values": {
+        "BorderSize": 0
+      }
+    },
+    "CheckBox": {
+      "BaseCategory": "Form",
+      "Colors": {
+        "BackColor": {
+          "Color": "#2C2F33"
+        }
+      },
+      "Values": {}
+    },
+    "DropDown": {
+      "BaseCategory": "Input",
+      "Colors": {
+        "DropDownBackColor": {
+          "Color": "#1E2124"
+        },
+        "DropDownSelectionBackColor": {
+          "Color": "#36393F"
+        },
+        "DropDownSelectionForeColor": {
+          "Color": "#FFFFFF"
+        },
+        "DropDownSelectionBorderColor": {
+          "Color": "#5865F2"
+        }
+      },
+      "Values": {}
+    }
+  },
+  "CaptionFont": {
+    "FontFamily": "Segoe UI",
+    "FontSize": 9,
+    "FontStyle": 0
+  },
+  "LabelNormal": {
+    "FontFamily": "Segoe UI",
+    "FontSize": 9,
+    "FontStyle": 0
+  },
+  "LabelTitle": {
+    "FontFamily": "Segoe UI",
+    "FontSize": 12,
+    "FontStyle": 1
+  },
+  "CustomColors": {
+    "KForms.ControlButton": {
+      "BaseCategory": "Form",
+      "Colors": {
+        "BackColor": {
+          "Color": "#1E2124"
+        },
+        "SelectedBackColor": {
+          "Color": "#36393F"
+        }
+      },
+      "Values": {}
+    }
+  },
+  "CustomPaddings": {}
+}

@@ -1,0 +1,111 @@
+{
+  "DarkTheme": true,
+  "ControlStyles": {
+    "Form": {
+      "BaseCategory": "None",
+      "Colors": {
+        "Caption": {
+          "Color": "#424242"
+        },
+        "BackColor": {
+          "Color": "#1F1F1F"
+        },
+        "ForeColor": {
+          "Color": "#FFFFFF"
+        },
+        "BorderColor": {
+          "Color": "#565656"
+        },
+        "DisabledForeColor": {
+          "Color": "#B1B1B1"
+        },
+        "SelectedBackColor": {
+          "Color": "#464646"
+        }
+      },
+      "Values": {
+        "BorderSize": 2,
+        "CaptionHeight": 32
+      }
+    },
+    "Input": {
+      "BaseCategory": "Form",
+      "Colors": {
+        "BackColor": {
+          "Color": "#383838"
+        },
+        "BorderColor": {
+          "Color": "#505050"
+        }
+      },
+      "Values": {
+        "BorderSize": 1
+      }
+    },
+    "Button": {
+      "BaseCategory": "Input",
+      "Colors": {
+        "BackColor": {
+          "Color": "#323232"
+        }
+      },
+      "Values": {
+        "BorderSize": 0
+      }
+    },
+    "CheckBox": {
+      "BaseCategory": "Form",
+      "Colors": {
+        "BackColor": {
+          "Color": "#1f1f1f"
+        }
+      },
+      "Values": {}
+    },
+    "DropDown": {
+      "BaseCategory": "Input",
+      "Colors": {
+        "DropDownBackColor": {
+          "Color": "#2E2E2E"
+        },
+        "DropDownSelectionBackColor": {
+          "Color": "#515151"
+        },
+        "DropDownSelectionForeColor": {
+          "Color": "#FFFFFF"
+        },
+        "DropDownSelectionBorderColor": {
+          "Color": "#707070"
+        }
+      },
+      "Values": {}
+    }
+  },
+  "CaptionFont": {
+    "FontFamily": "Segoe UI",
+    "FontSize": 9,
+    "FontStyle": 0
+  },
+  "LabelNormal": {
+    "FontFamily": "Segoe UI",
+    "FontSize": 9,
+    "FontStyle": 0
+  },
+  "LabelTitle": {
+    "FontFamily": "Segoe UI",
+    "FontSize": 12,
+    "FontStyle": 1
+  },
+  "CustomColors": {
+    "KForms.ControlButton": {
+      "BaseCategory": "Form",
+      "Colors": {
+        "BackColor": {
+          "Color": "#424242"
+        }
+      },
+      "Values": {}
+    }
+  },
+  "CustomPaddings": {}
+}
