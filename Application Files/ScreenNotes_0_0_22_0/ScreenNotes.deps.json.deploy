@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ScreenNotes/1.0.0": {
+        "dependencies": {
+          "KForms": "1.0.0"
+        },
+        "runtime": {
+          "ScreenNotes.dll": {}
+        }
+      },
+      "KForms/1.0.0": {
+        "runtime": {
+          "KForms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.13"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScreenNotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
