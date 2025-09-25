@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="ScreenNotes.exe" version="0.0.37.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="ScreenNotes.exe" version="0.0.22.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="ScreenNotes.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -54,13 +54,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="KForms.dll" size="61952">
+  <file name="KForms.dll" size="67584">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CmYo7m9nlFdVJDSrIdq6GkX/WcXZkWrGUPbMzGyNHLg=</dsig:DigestValue>
+      <dsig:DigestValue>ohRlLdFocrctO6Uza0fKjtPZqEYkgjR5V9l2kL4ezzI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.deps.json" size="842">
@@ -69,16 +69,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mftD8Xp/wWpEv8CIodWOmWQ/5b0x/yCPLPKYqGyoB9g=</dsig:DigestValue>
+      <dsig:DigestValue>+Mz3lbw6Bk6NatTMnH/BYn4XWn/hyXGL3aSHaVaiR1A=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ScreenNotes.dll" size="392192">
+  <file name="ScreenNotes.dll" size="431616">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZhsaMtVTWbMpjjv6d0Vyb1tEm8ZH41xd4NDH1oEFsXA=</dsig:DigestValue>
+      <dsig:DigestValue>QO+9BNMUQYzSM2+GVaofB3CK8tQVlKS593G1bJ4N7Gw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.exe" size="164352">
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>g2bdvJZttxPWJPlZsn5rh6Ysh9D9uN/Q3L7zIauKpAo=</dsig:DigestValue>
+      <dsig:DigestValue>bHWQTH3U8GkWMJsLTiI+WPvzS93+YnLvpgWhQYPwn5Q=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.ico" size="12918">
