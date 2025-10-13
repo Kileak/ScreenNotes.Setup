@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="ScreenNotes.exe" version="0.0.42.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="ScreenNotes.exe" version="0.0.43.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="ScreenNotes.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -60,7 +60,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KsTBT6kMEdbVMOAJznWgM9IaAztvPcdtGmtGppXzyLQ=</dsig:DigestValue>
+      <dsig:DigestValue>ekaFcw9aCoExd4ZJkd3zT7+20xyD15qm3yc/rg5+oPM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.deps.json" size="842">
@@ -78,7 +78,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6WHidjc0rFyEjuZWVW9nquimej8RPJMooUGIEN4xF6I=</dsig:DigestValue>
+      <dsig:DigestValue>fxIANqT95mMqHJilu7VGkV9xs9dVSzNfxqXDPuJ3kYQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.exe" size="164352">
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+UUNIBWv4IcqUXUskH4C5aQ70lfTNSVGwxxz3RZm8/s=</dsig:DigestValue>
+      <dsig:DigestValue>WfgCo7N6mCOtnMcjEnvD361+waNvNGWG3duO/UzHi0I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.ico" size="12918">
