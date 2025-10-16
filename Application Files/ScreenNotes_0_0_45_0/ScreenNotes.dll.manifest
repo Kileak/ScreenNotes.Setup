@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="ScreenNotes.exe" version="0.0.44.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="ScreenNotes.exe" version="0.0.45.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="ScreenNotes.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -72,13 +72,13 @@
       <dsig:DigestValue>+Mz3lbw6Bk6NatTMnH/BYn4XWn/hyXGL3aSHaVaiR1A=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ScreenNotes.dll" size="434176">
+  <file name="ScreenNotes.dll" size="434688">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>3Dl4hoAOSI3ja9kc3LMv6CL6HQFzsWBrGZlnXOL0O6Q=</dsig:DigestValue>
+      <dsig:DigestValue>uXrMs9rT/AihvaUHeokuzIhgoFZvgKKFn0zv+EfQvJI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.exe" size="164352">
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Hs7QWVo5Szo5bWOGw1jHthE6uHACt5qgDQC44oU/jyo=</dsig:DigestValue>
+      <dsig:DigestValue>fBciroPOt4R6Zdu2MsP19++fsi9d6oQg+HKLqZi+FCQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.ico" size="12918">
