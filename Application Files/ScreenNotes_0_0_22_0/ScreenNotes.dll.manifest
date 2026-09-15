@@ -78,7 +78,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H7UX7zQgOPXNj5sE+3EiXeFuFEmMKvXzhO0CtFzplUs=</dsig:DigestValue>
+      <dsig:DigestValue>JB0NK0TxhULlLADBeqkjlJUUq+L2Dc8cEjuC4r25zA4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.exe" size="164352">
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mOP+7fNnr/LyHO7vHAfq2JQOlLYNHnHhVlQ1kY9fRpo=</dsig:DigestValue>
+      <dsig:DigestValue>Ea+8yoAKnGs6n6GFtkKP9uYlnagNBF1M9Lgof2Wsduk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenNotes.ico" size="12918">
